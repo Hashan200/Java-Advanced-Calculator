@@ -1,8 +1,4 @@
-//NAME:_____________________M.M.S.H.Bandara_______________________
-//REGISTRATION NAMBER:______MGT/2020/438__________________________
-//INDEX NAMBER:_____________MGT/6169______________________________
-//DEPARTMENT:_______________INFORMATION SYSTEM____________________
-//SUBJECT:__________________COMPUTER PROGRAMMING__________________
+
 
 public class JavaCalculator extends javax.swing.JFrame {
 
